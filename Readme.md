@@ -1,6 +1,6 @@
 # 静态搭建奔驰官网展示
 
-> 代码仓库：
+> 代码仓库：https://github.com/fff9871/Benz_simulate
 >
 > 代码网站：
 >
